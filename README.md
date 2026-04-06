@@ -11,7 +11,7 @@ This program covers how to leverage AI-assisted development to write better code
 | Module | Topic |
 |--------|-------|
 | Day 1 | Introduction to GitHub Copilot · Prompt Engineering Fundamentals |
-| Day 2 | Advanced Prompting · Code Generation · Testing with AI |
+| Day 1 | Advanced Prompting · Code Generation · Testing with AI |
 | Upcoming | *(updated as sessions are added)* |
 
 ---
@@ -110,8 +110,8 @@ All exercises follow these enterprise standards — the same ones Copilot should
 
 | Date | Session | Topics Covered |
 |------|---------|----------------|
-| Apr 2, 2025 | Day 1 | Copilot Intro, Prompt Engineering Basics |
-| Apr 3, 2025 | Day 2 | Advanced Prompting, Code Generation, Testing |
+| Apr 6, 2025 | Day 1 | Copilot Intro, Prompt Engineering Basics |
+| Apr 6, 2025 | Day 2 | Advanced Prompting, Code Generation, Testing |
 | Apr 6, 2025 | Day 3 | *(in progress)* |
 
 > This log will be updated after each session.
